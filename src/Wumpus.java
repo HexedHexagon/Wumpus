@@ -3,6 +3,8 @@
  *  \ \    / / | | |  \/  | _ \ | | / __|
  *   \ \/\/ /| |_| | |\/| |  _/ |_| \__ \
  *    \_/\_/  \___/|_|  |_|_|  \___/|___/
+ * 
+ * Hunt the WUMPUS right in your terminal! Available to play in both English and German.
  *   
  * Made as my first 'larger' java project at school when we were learning about arrays back in February '23,
  * before we were introduced to object-oriented programming principles, so it's all one class. 
